@@ -2,7 +2,7 @@
   "version": "1.0.2",
   "release_date": "2026-06-29",
   "download_url": "https://github.com/B4sel/Meyar-POS-Releases/releases/download/v1.0.1/Meyar_POS_Setup.exe",
-  "sha256": "C682866BD71D1D9AA2134DD587218E91BCBAABBF2C2CA8D417673A463984A1FD",
+  "sha256": "c682866bd71d1d9aa2134dd587218e91bcbaabbf2c2ca8d417673a463984a1fd",
   "mandatory": true,
   "release_notes": "<ul><li>تصحيح أخطاء - Bugs Fixed </li></ul>"
 }
