@@ -1,8 +1,0 @@
-{
-  "version": "1.0.4",
-  "release_date": "2026-07-04",
-  "download_url": "https://github.com/B4sel/Meyar-POS-Releases/releases/download/v1.0.4/Meyar_POS_Setup.exe",
-  "sha256": "DBAE9CDAFFDC7BE72D2983B6447D232B2F135FF3E31CBBF09FE347CDDF962646",
-  "mandatory": false,
-  "release_notes": "<ul><li>إصلاح حذف طبقات المخزون السالبة عند سند الإخراج والتحويل</li><li>إضافة إعدادات الموازين و ربطها بالأصناف</li><li>تحسينات تقارير المخزون وفلاتر الكمية (من جلسات سابقة)</li><li>إصلاح FIFO للمخزون السالب</li></ul>"
-}
