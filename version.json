@@ -1,8 +1,8 @@
 {
-  "version": "1.0.7",
-  "release_date": "2026-07-18",
+  "version": "1.0.8",
+  "release_date": "2026-07-26",
   "download_url": "https://github.com/B4sel/Meyar-POS-Releases/releases/download/v1.0.3/Meyar_POS_Setup.exe",
-  "sha256": "242B8CD2FBCF469B05D1458CC4AE983F3A51C18031E5C37112F85C402ABD2684",
-  "mandatory": false,
-"release_notes": "<ul><li><strong>تحسينات جذرية في الأداء:</strong> تطوير معمارية النظام وقواعد البيانات لدعم معالجة كميات ضخمة من البيانات والأصناف بسرعة استجابة عالية.</li><li><strong>تحديثات الكاشير (POS):</strong> تفعيل نظام الحماية الصارم للأسعار (الحد الأدنى للسعر) على مستوى الجملة والتجزئة، وإضافة مؤشر شفاف يعرض إجمالي توفير العميل أسفل الفاتورة.</li><li><strong>الاستيراد الذكي (Excel):</strong> تحسين واجهة استيراد المشتريات، وتطوير خوارزمية التعرف على الأصناف لتتجاهل الخلايا الفارغة وتدعم الإعفاء الضريبي بشكل مباشر.</li><li><strong>إصلاحات عامة.</strong></li></ul>"
+  "sha256": "AD3EB3B3E8F5A93092889E697B46B73D7C1BBA97BD0B83D091B552EBA30364C9",
+  "mandatory": true,
+  "release_notes": "<ul><li>تصحيح أخطاء</li></ul>"
 }
