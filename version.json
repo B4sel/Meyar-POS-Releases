@@ -1,8 +1,8 @@
 {
-  "version": "1.0.8",
-  "release_date": "2026-07-26",
+  "version": "1.0.9",
+  "release_date": "2026-09-07",
   "download_url": "https://github.com/B4sel/Meyar-POS-Releases/releases/download/v1.0.3/Meyar_POS_Setup.exe",
-  "sha256": "AD3EB3B3E8F5A93092889E697B46B73D7C1BBA97BD0B83D091B552EBA30364C9",
+  "sha256": "7CE04B40C33DC1BBACEAB498E87982A94DFE8AB06620367D2107173D9F886C5C",
   "mandatory": true,
-  "release_notes": "<ul><li>تصحيح أخطاء</li></ul>"
+  "release_notes": "<ul><li>تصحيح أخطاء , اضافة فوترة الكترونية</li></ul>"
 }
